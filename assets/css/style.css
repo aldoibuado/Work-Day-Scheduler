@@ -11,6 +11,7 @@ body {
     color: #000000;
     border-left: 1px solid black;
     padding: 10px;
+    background-color: grey;
   }
   
   .jumbotron {
@@ -69,3 +70,5 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
+
+  
