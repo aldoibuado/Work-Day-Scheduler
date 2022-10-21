@@ -12,6 +12,9 @@ N/A
 
 You are able to write on the time frame of the work day scheduler and click on the save icon. When you refresh the page, the event will be saved. 
 
+Here is the link to the deployed application! 
+https://aldoibuado.github.io/Work-Day-Scheduler/
+
 ![Screenshot (12)](https://user-images.githubusercontent.com/109316738/197112944-3dca3c6a-9896-4708-bc8d-831c1a5df347.png)
 
 ## License
