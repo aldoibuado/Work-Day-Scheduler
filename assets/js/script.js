@@ -1,3 +1,4 @@
+// adds the current date to the calender app
 var todayDate = moment().format("dddd, MMM Do YYYY");
 $("#currentDay").html(todayDate);
 
@@ -79,6 +80,7 @@ switch (hour) {
   //alert("hello");
 }
 
+// allows text inputted in the time frames to be stored in local storage
 document.getElementById("one").value = localStorage.getItem("one");
 
 document.getElementById("save-one").addEventListener("click", function () {

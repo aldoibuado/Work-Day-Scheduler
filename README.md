@@ -2,12 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+We all have a lot to do during the day and live busy lives. A planner or calnder can help us with staying organized. Being able to make a work day scheduler can help someone plan their workday properly. This project is a good way to test out the information I have learned so far in this course. It solves the problem of being able to have a work day planner in which you are able to save your activity for that hour and throughout the day. I have also learned how to incorporate switch statements, getElementbyID and use local storage in JavaScript to make the application work. 
 
 ## Installation
 
@@ -15,13 +10,9 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+You are able to write on the time frame of the work day scheduler and click on the save icon. When you refresh the page, the event will be saved. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Screenshot (12)](https://user-images.githubusercontent.com/109316738/197112944-3dca3c6a-9896-4708-bc8d-831c1a5df347.png)
 
 ## License
 
